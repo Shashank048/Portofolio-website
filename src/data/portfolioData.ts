@@ -10,7 +10,7 @@ export const personalInfo = {
 
 export const contactInfo: ContactInfo = {
   email: 'choureshashank21@gmail.com',
-  linkedin: 'www.linkedin.com/in/shashank-choure-0a4b14270/',
+  linkedin: 'http://www.linkedin.com/in/shashank-choure-0a4b14270',
   github: 'github.com/Shashank048',
   phone: ''
 };
@@ -29,13 +29,6 @@ export const projects: Project[] = [
     techStack: 'React, Node.js, WebRTC, Socket.io',
     githubLink: 'github.com/Shashank048/Zoom-clone',
     date: 'July 2024',
-  },
-  {
-    title: 'CodeDeck',
-    description: 'Developed a GitHub-like platform enabling seamless repository management. Implemented version control with commit history for tracking code changes. Designed a user authentication system with secure login and personalized profiles.',
-    techStack: 'React, Node.js, MongoDB',
-    githubLink: 'github.com/Shashank048/Github-clone-Frontend',
-    date: 'August 2024',
   },
   {
     title: 'StockNest',
