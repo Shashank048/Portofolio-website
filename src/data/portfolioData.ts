@@ -10,7 +10,7 @@ export const personalInfo = {
 
 export const contactInfo: ContactInfo = {
   email: 'choureshashank21@gmail.com',
-  linkedin: 'http://www.linkedin.com/in/shashank-choure-0a4b14270',
+  linkedin: 'http://www.linkedin.com/in/shashank-choure-0a4b14270/',
   github: 'github.com/Shashank048',
   phone: ''
 };
